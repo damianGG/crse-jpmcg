@@ -9,6 +9,7 @@ export async function getStrapiData() {
   try {
     const response = await fetch(`${backendLink}/api/dokumenties?sort=rank:asc&populate=*`, {
       method: 'GET',
+      cache: 'no-cache',
       headers: {
         'Content-Type': 'application/json',
         'Authorization': `Bearer ${process.env.BEARER_TOKEN}`,
