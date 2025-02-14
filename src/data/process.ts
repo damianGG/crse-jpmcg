@@ -30,7 +30,7 @@ export const processList1 = [
   },
   {
     no: "3",
-    title: "mieszkające w Radomiu (68 os.) lub gminie Wieniawa (4 os.)",
+    title: "mieszkające w Radomiu oraz gminach Wieniewa, Chlewiska, Pionki, Gniewoszów.",
     className: "me-lg-6 mt-6",
     subtitle: "",
     shadow: true
@@ -62,7 +62,7 @@ export const doPobrania = [
   },
   {
     no: "4",
-    title: "Dokument potwierdzający miejsce zamieszkania na terenie miasta Radom lub gminy Wieniawa ",
+    title: "Dokument potwierdzający miejsce zamieszkania na terenie miasta Radom lub gminy Wieniawa, Chlewiska, Pionki, Gniewoszów.",
     className: "me-lg-6 mt-6 text-start",
     shadow: true,
     subtitle: "(np. zaświadczenie z Urzędu Miasta/Gminy lub deklaracja za śmieci lub akt własności lokalu mieszkalnego lub umowa najmu lokalu mieszkalnego lub PIT lub faktura np. za telefon (gdzie wskazany jest adresem miejsca zamieszkania) lub  w przypadku osób pobierających np. 800 plus lub bon żłobkowy lub świadczenia z rodzinnego kapitału opiekuńczego -  decyzji wydanej w tej sprawie gdzie wskazano adres miejsca zamieszkania wnioskodawcy lub dokument  z ZUS potwierdzający zgłoszenie do ubezpieczeń i miejsce zamieszkania Uczestniczki projektu);"

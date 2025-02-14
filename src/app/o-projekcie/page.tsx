@@ -47,7 +47,7 @@ export default function News() {
                     <p>Wysokość wkładu Funduszy Europejskich:<span className="fw-bold"> 1 089 936,67 zł</span></p>
                     <p className="mb-3 fw-bold lead fs-lg">Celem głównym projektu jest aktywizacja zawodowa 72 biernych zawodowo kobiet
                         w wieku produkcyjnym (18 – 59 lat) zamieszkujących w rozumieniu Kodeksu
-                        Cywilnego miasto Radom oraz gminę Wieniawa, w szczególności biernych
+                        Cywilnego miasto Radom oraz gminy Wieniawa,Chlewiska,Pionki lub Gniewoszów w szczególności biernych
                         zawodowo kobiet z wykształceniem ISCED 3 i niższym oraz w wieku do lat 30 w
                         okresie realizacji projektu (1.04.2024-31.03.2025), która będzie wynikiem udzielenia
                         profesjonalnego wsparcia aktywizującego. W konsekwencji co najmniej 66% biernych
